@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('layouts/index');
 });
 
-Route::get('/portfolio', function () {
-    return view('portfolio');
+Route::get('/portfolio-details', function () {
+    return view('portfolio-details');
 });

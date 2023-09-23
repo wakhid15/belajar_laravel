@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Belajar Bootstrap - @yield('content')</title>
+  <title>Mokhamad Wakhid Mauludien - @yield('content')</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -34,9 +30,6 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
-</head>
-
-<body>
 
   <!-- ======= Mobile nav toggle button ======= -->
   <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
@@ -60,14 +53,14 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Brandon Johnson</h1>
+      <h1>MOKHAMAD WAKHID MAULUDIEN</h1>
       <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://twitter.com/mokhamadwakhidmauludien" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://www.facebook.com/bident.WAE" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.instagram.com/tehpucukh4r4m" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://www.threads.net/@tehpucukh4r4m" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="https://wa.me/+6288217122396" class="Wahatsapp"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -88,7 +81,7 @@
             <img src="assets/img/ludien.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>MOKHAMAD WAKHID MAULUDIEN&amp; 21.31.0005</h3>
+            <h3>  Nama: MOKHAMAD WAKHID MAULUDIEN <p> Nim: 21.31.0005</h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
@@ -96,17 +89,17 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>15, 06, 2000</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.eax.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+6223 456 7890</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Indonesia</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Tempat Tanggal Lahir:</strong> <span>Lamongan, 15, June, 2000</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.mokhamadwakhidmauludien.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Nomor Telp/WA:</strong> <span>+62 8523 4856 7890</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Tempat Tinggal:</strong> <span>Indonesia, Jawa Timur, Lamongan</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Mahasiswa</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>teloletemail@example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Umur:</strong> <span>23</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Status:</strong> <span>Mahasiswa</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>mokhamadwakhidmauludien@gamil.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -248,7 +241,7 @@
           <div class="col-lg-6">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Brandon Johnson</h4>
+              <h4>MOKHAMAD WAKHID MAULUDIEN</h4>
               <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
               <ul>
                 <li>Portland par 127,Orlando, FL</li>
@@ -331,7 +324,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -345,7 +338,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="/portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -359,7 +352,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="/portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -373,7 +366,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="/portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -387,7 +380,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -401,7 +394,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -415,7 +408,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -429,7 +422,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -443,7 +436,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -702,7 +695,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Brandon Johnson</h3>
+      <h3>MOKHAMAD WAKHID MAULUDIEN</h3>
       <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -741,6 +734,3 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
 
-</body>
-
-</html>
