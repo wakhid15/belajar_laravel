@@ -1,3 +1,5 @@
+@extends('layouts.main')
+@section('content')
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    hello word
+ <script>
+ alert("ini adalah Halaman Home")
+ </script>
 </body>
 </html>
+@endsection
